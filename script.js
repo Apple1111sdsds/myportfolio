@@ -50,7 +50,7 @@ const projects = {
 
   {
     title: "(puto)Food 2d Asset ",
-    image: "puto.png",
+    image: "Puto.png",
     description: "2d Asset for Food Cart simulator",
     link: "#"
 },
@@ -65,14 +65,14 @@ const projects = {
 
   {
     title: "Chill",
-    image: "Blue.png",
+    image: "blue.png",
     description: "2d Asset for Food Cart simulator",
     link: "#"
 },
 
   {
     title: "ms. astra",
-    image: "Wink.png",
+    image: "wink.png",
     description: "New artsyle",
     link: "#"
 },
